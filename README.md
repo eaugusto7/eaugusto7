@@ -26,7 +26,6 @@
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
-  <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/N1Q3VZ2/IMG-0021.jpg?width=676&height=676">
 </div>
   
   
