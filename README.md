@@ -1,11 +1,14 @@
+<!-- Título -->
 ## Olá, Me chamo Eduardo Augusto e Bem-Vindo(a) ao meu Git 😄!
 
+<!-- Histórico de Commit e Percentual de Linguagem -->
 <div align="center">
   <a href="https://github.com/eaugusto7">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eaugusto7&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaugusto7&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
+<!-- Ícones de Linguagens e Tecnologias utilizadas -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -30,12 +33,14 @@
 
 ##
 
+<!-- Ícones e Links de Redes Sociais -->
 <div> 
   <a href="http://youtube.com/c/EAugusto" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/EAugusto79" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:edborges96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardoaugusto79/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  <!-- Chamada da animação da Cobrinha, a partir das planilhas de Commit realizados -->
   ![Snake animation](https://github.com/eaugusto7/eaugusto7/blob/output/github-contribution-grid-snake.svg)
  
 </div>
