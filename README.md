@@ -1,5 +1,5 @@
 <!-- Título -->
-## Olá, Me chamo Eduardo Augusto e Bem-Vindo(a) ao meu Git 😄!
+## Olá, Me chamo Eduardo Augusto e Bem-Vindo(a) ao meu Git 😄!!
 
 <!-- Histórico de Commit e Percentual de Linguagem -->
 <div align="center">
