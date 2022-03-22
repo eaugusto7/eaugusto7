@@ -1,4 +1,4 @@
-## Olá, Me chamo Eduardo Augusto e Bem-Vindo ao meu Git 😄!
+## Olá, Me chamo Eduardo Augusto e Bem-Vindo(a) ao meu Git 😄!
 
 <div align="center">
   <a href="https://github.com/eaugusto7">
