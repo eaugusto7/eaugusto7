@@ -30,7 +30,6 @@
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
   </div>
-##
 
 <!-- Ícones e Links de Redes Sociais -->
 <div> 
