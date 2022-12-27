@@ -1,5 +1,5 @@
 <!-- Título -->
-## Olá, Me chamo Eduardo Augusto e Bem-Vindo(a) ao meu Git 😄!!
+## Hi, I'm Eduardo Augusto e Welcome to my Git 😄!!
 
 <div align="center">
   <a href="https://github.com/eaugusto7">
