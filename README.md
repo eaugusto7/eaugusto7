@@ -36,8 +36,10 @@
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
-</div>
 
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png](https://media.licdn.com/dms/image/D4D03AQHjl4abLLjfSA/profile-displayphoto-shrink_400_400/0/1670003778083?e=1677715200&v=beta&t=C-k2IAc0vJa1N2Ranjht9ts92ouBrZbK2ppl6vfdsuI)?width=676&height=676">
+  
+  </div>
 ##
 
 <!-- Ícones e Links de Redes Sociais -->
