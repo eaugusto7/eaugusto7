@@ -39,6 +39,6 @@
   <a href="https://www.linkedin.com/in/eduardoaugusto79/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   <!-- Chamada da animação da Cobrinha, a partir das planilhas de Commit realizados -->
-  ![Snake animation](https://github.com/eaugusto7/eaugusto7/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/eaugusto7/eaugusto7/blob/output/github-contribution-grid-snake.svg)-->
  
 </div>
