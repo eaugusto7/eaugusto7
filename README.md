@@ -37,6 +37,14 @@
  	<a href="https://www.twitch.tv/EAugusto79" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:edborges96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardoaugusto79/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  <div align="center">
+    <h2>🐍 Commits 🐍</h2>
+    <br>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/eaugusto7/eaugusto7/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
  
   <!-- Chamada da animação da Cobrinha, a partir das planilhas de Commit realizados -->
   ![Snake animation](https://github.com/eaugusto7/eaugusto7/blob/output/github-contribution-grid-snake.svg)
