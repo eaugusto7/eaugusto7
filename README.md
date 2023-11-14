@@ -5,6 +5,13 @@
   <a href="https://github.com/eaugusto7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eaugusto7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaugusto7&layout=compact&langs_count=7&theme=dark"/>
+
+  <div align="center">
+    <br><p align="centre"><b>Visitors Count</b></p>  
+      <p align="center"><img align="center" src="https://profile-counter.glitch.me/{eaugusto7}/count.svg" /></p> 
+    <br>
+  </div>
+  
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eaugusto7&bg_color=0d1117&color=33FF58&line=33FF58&point=C5F7CE&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
