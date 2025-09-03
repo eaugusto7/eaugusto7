@@ -12,7 +12,7 @@ Mestrando em Controle & Automação focado em **INS/GNSS** (PPP-RT/PPP-RTK), e d
 - 🔭 Agora: integração **INS + GNSS** com EKF, produtos SSR, e plataforma embarcada.
 - 🛠️ Construindo: Pagamentos (Angular + Go + MongoDB) com PIX/Cartões.
 - 🎮 Conteúdo paralelo: Retro games, unboxings.
-- 📫 Youtube:([https://seusite.com](https://www.youtube.com/@EAugusto))
+- 📫 Youtube:([Youtube](https://www.youtube.com/@EAugusto))
 
 ## Stack principal
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
