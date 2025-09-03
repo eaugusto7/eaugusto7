@@ -1,49 +1,43 @@
-<!-- Título -->
-## Hi, I'm Eduardo Augusto e Welcome to my Git 😄!!
+<!-- Banner opcional (dark/light) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
+  <img alt="Banner" src="assets/banner-light.png">
+</picture>
 
-<div align="center">
-  <a href="https://github.com/eaugusto7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eaugusto7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaugusto7&layout=compact&langs_count=7&theme=dark"/>
+# Oi, eu sou o Eduardo Augusto 👋
 
-  <div align="center">
-    <br><p align="centre"><b>Visitors Count</b></p>  
-      <p align="center"><img align="center" src="https://profile-counter.glitch.me/{eaugusto7}/count.svg" /></p> 
-    <br>
-  </div>
-  
-</div>
+Mestrando em Controle & Automação focado em **INS/GNSS** (PPP-RT/PPP-RTK), e dev **C++/Python/Go**. Também crio UIs com **Angular** e mexo com **Raspberry Pi** para projetos embarcados.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eaugusto7&bg_color=0d1117&color=33FF58&line=33FF58&point=C5F7CE&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🔭 Agora: integração **INS + GNSS** com EKF, produtos SSR, e plataforma embarcada.
+- 🛠️ Construindo: Pagamentos (Angular + Go + MongoDB) com PIX/Cartões.
+- 🎮 Conteúdo paralelo: Retro games, unboxings.
+- 📫 Youtube:([https://seusite.com](https://www.youtube.com/@EAugusto))
 
-<!-- Ícones de Linguagens e Tecnologias utilizadas -->
-<div style="display: inline_block"><br>
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-  <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tortoisegit/tortoisegit-original.svg">
-  <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-  <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
-  </div>
+## Stack principal
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-<!-- Ícones e Links de Redes Sociais -->
-<div> 
-  <a href="http://youtube.com/c/EAugusto" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/EAugusto79" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:edborges96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardoaugusto79/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+## Projetos em destaque
+- **GNSS-CPP** — Biblioteca C++ para integração INS/GNSS (EKF, NED, PPP-RT).  
+  `C++ · Eigen · SSR · NED`
+- **GNSSSkeletonApp (Python)** — Leitura UBX, streaming multi-cliente, filtros.  
+  `Python · UBX · Sockets`
+- Front Angular + Back Go, pagamentos PIX/Cartão, MongoDB.  
+  `Angular · Go · MongoDB · CI/CD`
+
+## Como posso ajudar
+- Arquitetura de **front Angular** e **back Go**.
+
+<!-- Estatísticas (opcional; substitua 'seuusuario') -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eaugusto7&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaugusto7&layout=compact)
+
+> 💬 Dica: se este perfil te ajudou, deixe uma ⭐ em algum repositório!
