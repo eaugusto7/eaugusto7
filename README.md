@@ -4,7 +4,7 @@
 <!-- Linha digitando -->
 <p align="center">
   <a href="https://www.youtube.com/@EAugusto">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=940&size=22&color=22D3EE&lines=Mestrando+em+Controle+%26+Automa%C3%A7%C3%A3o;INS%2FGNSS%2C+PPP-RT%2FPPP-RTK%2C+EKF;C%2B%2B%2C+Python%2C+Go%2C+Angular;Retro+games%2C+unboxings+e+conte%C3%BAdos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=940&size=22&color=22D3EE&lines=Mestrando+em+Engenharia+de+Sistemas+e+Automacao;INS%2FGNSS%2C+PPP-RT%2FPPP-RTK%2C+EKF;C%2B%2B%2C+Python%2C+Go%2C+Angular;Retro+games%2C+unboxings+e+conte%C3%BAdos" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-Mestrando focado em <b>INS/GNSS</b> (PPP-RT/PPP-RTK) e dev <b>C++/Python/Go</b>. Curto UIs com <b>Angular</b> e brinco com <b>Raspberry Pi</b> em projetos embarcados.
+Mestrando focado em <b>INS/GNSS</b> (PPP-RT/PPP-RTK) e dev <b>C++/Python/Go</b>. Curto UIs com <b>Angular</b> e <b>Raspberry Pi</b> em projetos embarcados.
 </p>
 
 <div align="center">
