@@ -1,43 +1,89 @@
-<!-- Banner opcional (dark/light) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-  <img alt="Banner" src="assets/banner-light.png">
-</picture>
+<!-- Header animado (dark) -->
+![header](https://capsule-render.vercel.app/api?type=wave&height=250&text=Eduardo%20Augusto&fontAlign=50&fontAlignY=40&desc=INS%20+%20GNSS%20%7C%20C++%20%7C%20Python%20%7C%20Go%20%7C%20Angular&descAlign=50&descAlignY=70&color=0:0D1117,100:111827&fontColor=fff&animation=twinkling)
 
-# Oi, eu sou o Eduardo Augusto 👋
+<!-- Linha digitando -->
+<p align="center">
+  <a href="https://www.youtube.com/@EAugusto">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=940&size=22&color=22D3EE&lines=Mestrando+em+Controle+%26+Automa%C3%A7%C3%A3o;INS%2FGNSS%2C+PPP-RT%2FPPP-RTK%2C+EKF;C%2B%2B%2C+Python%2C+Go%2C+Angular;Retro+games%2C+unboxings+e+conte%C3%BAdos" alt="Typing SVG" />
+  </a>
+</p>
 
-Mestrando em Controle & Automação focado em **INS/GNSS** (PPP-RT/PPP-RTK), e dev **C++/Python/Go**. Também crio UIs com **Angular** e mexo com **Raspberry Pi** para projetos embarcados.
+<h1 align="center">Oi, eu sou o Eduardo Augusto 👋</h1>
 
-- 🔭 Agora: integração **INS + GNSS** com EKF, produtos SSR, e plataforma embarcada.
-- 🛠️ Construindo: Pagamentos (Angular + Go + MongoDB) com PIX/Cartões.
-- 🎮 Conteúdo paralelo: Retro games, unboxings.
-- 📫 Youtube:([Youtube](https://www.youtube.com/@EAugusto))
+<p align="center">
+  <a href="https://www.youtube.com/@EAugusto">
+    <img src="https://img.shields.io/badge/YouTube-EE0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/eaugusto7?tab=followers">
+    <img src="https://img.shields.io/github/followers/eaugusto7?style=for-the-badge&label=Seguidores&color=111827" />
+  </a>
+</p>
 
-## Stack principal
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+<p align="center">
+Mestrando focado em <b>INS/GNSS</b> (PPP-RT/PPP-RTK) e dev <b>C++/Python/Go</b>. Curto UIs com <b>Angular</b> e brinco com <b>Raspberry Pi</b> em projetos embarcados.
+</p>
 
-## Projetos em destaque
+<div align="center">
+
+### 🔭 Agora
+- Integração **INS + GNSS** com EKF, produtos SSR e plataforma embarcada  
+- **Pagamentos** (Angular + Go + MongoDB) com PIX/Cartões  
+
+### 🎮 Conteúdo paralelo
+- Retro games, unboxings
+
+</div>
+
+---
+
+## ⚙️ Stack principal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,go,angular,mongodb,raspberrypi,docker,linux,git,cmake,matlab,ubuntu&theme=dark" />
+</p>
+
+---
+
+## 🚀 Projetos em destaque
 - **GNSS-CPP** — Biblioteca C++ para integração INS/GNSS (EKF, NED, PPP-RT).  
-  `C++ · Eigen · SSR · NED`
+  <sub>`C++ · Eigen · SSR · NED`</sub>
 - **GNSSSkeletonApp (Python)** — Leitura UBX, streaming multi-cliente, filtros.  
-  `Python · UBX · Sockets`
-- Front Angular + Back Go, pagamentos PIX/Cartão, MongoDB.  
-  `Angular · Go · MongoDB · CI/CD`
+  <sub>`Python · UBX · Sockets`</sub>
+- **Totem de Pagamentos** — Front Angular + Back Go, PIX/Cartão, MongoDB.  
+  <sub>`Angular · Go · MongoDB · CI/CD`</sub>
 
-## Como posso ajudar
-- Arquitetura de **front Angular** e **back Go**.
+---
 
-<!-- Estatísticas (opcional; substitua 'seuusuario') -->
+## 📊 Métricas (dark)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eaugusto7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaugusto7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eaugusto7&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaugusto7&layout=compact)
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=eaugusto7&theme=tokyonight&hide_border=true" />
+</p>
 
-> 💬 Dica: se este perfil te ajudou, deixe uma ⭐ em algum repositório!
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eaugusto7&theme=onedark&no-bg=true&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 💬 Como posso ajudar
+- Arquitetura de **front Angular** e **back Go**
+- Integração **INS/GNSS**, **PPP-RT/PPP-RTK**, **EKF**
+
+> 💡 Se este perfil te ajudou, deixe uma ⭐ em algum repositório!
+
+<!-- SNAKE (ativar o workflow abaixo para gerar o SVG) -->
+<!--
+![Snake](https://raw.githubusercontent.com/eaugusto7/eaugusto7/output/github-contribution-grid-snake.svg)
+-->
+
+<!-- Rodapé -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:111827" />
+</p>
