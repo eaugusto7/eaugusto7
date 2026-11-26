@@ -160,8 +160,7 @@ Jogo gótico de sobrevivência em desenvolvimento para a Steam.
 <h2 align="center">🔴 Últimos vídeos no YouTube</h2>
 
 <p align="center">
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><a href="https://www.youtube.com/shorts/9zM-UABwxlI"><img width="24%" src="https://i.ytimg.com/vi/9zM-UABwxlI/mqdefault.jpg" alt="GTA 6 VIROU THE SIMS?! 🏠 #shorts" title="GTA 6 VIROU THE SIMS?! 🏠 #shorts" /></a><a href="https://www.youtube.com/watch?v=DI-e5yK8-tE"><img width="24%" src="https://i.ytimg.com/vi/DI-e5yK8-tE/mqdefault.jpg" alt="GTA 6 AO VIVO - UM NOVO RECOMEÇO - PARTE 4" title="GTA 6 AO VIVO - UM NOVO RECOMEÇO - PARTE 4" /></a><a href="https://www.youtube.com/shorts/6ke-vjymUFc"><img width="24%" src="https://i.ytimg.com/vi/6ke-vjymUFc/mqdefault.jpg" alt="O MAPA DO GTA 6 É GIGANTE! 🗺️ #shorts" title="O MAPA DO GTA 6 É GIGANTE! 🗺️ #shorts" /></a><a href="https://www.youtube.com/shorts/OMNGYFIRElo"><img width="24%" src="https://i.ytimg.com/vi/OMNGYFIRElo/mqdefault.jpg" alt="MORRI NO TUTORIAL DO GTA 6 💀 #shorts" title="MORRI NO TUTORIAL DO GTA 6 💀 #shorts" /></a><!-- YOUTUBE:END -->
 </p>
 
 <p align="center">
