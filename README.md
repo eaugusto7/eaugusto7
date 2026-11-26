@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@EAugusto"><img src="https://img.shields.io/badge/YouTube-EAugusto-E11D48?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" /></a>
-  <a href="mailto:eduardo.borges96@hotmail.com"><img src="https://img.shields.io/badge/Email-Fale%20comigo-7C3AED?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0D1117" /></a>
   <a href="https://github.com/eaugusto7?tab=followers"><img src="https://img.shields.io/github/followers/eaugusto7?style=for-the-badge&label=Seguidores&logo=github&color=9F1239&labelColor=0D1117" /></a>
   <img src="https://komarev.com/ghpvc/?username=eaugusto7&label=Visitas&color=4C1D95&style=for-the-badge" />
 </p>
