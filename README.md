@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@EAugusto">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=E11D48&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=50&lines=Doutorando+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UFLA;Analista+de+TI+%40+IFSP;Fus%C3%A3o+INS%2FGNSS+%C2%B7+RTK+%C2%B7+PPP-RT+%C2%B7+EKF;Factor+Graphs+em+hardware+low-cost;C%2B%2B+em+tempo+real+no+Raspberry+Pi;Go+%2B+Angular+%2B+MongoDB+%2B+MQTT;Criando+a+Sombra+OS+%F0%9F%90%A7;Gamedev+com+Unity+%2B+Blender+%F0%9F%8E%AE;GTA+VI+ao+vivo+no+YouTube+%F0%9F%94%B4" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=E11D48&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=50&lines=Doutorando+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UFLA;Analista+de+TI+%40+IFSP;Navega%C3%A7%C3%A3o+INS%2FGNSS;Sistemas+embarcados+%2B+Full+Stack;Criando+a+Sombra+OS+%F0%9F%90%A7;Gamedev+com+Unity+%2B+Blender+%F0%9F%8E%AE;GTA+VI+ao+vivo+no+YouTube+%F0%9F%94%B4" alt="Typing SVG" />
   </a>
 </p>
 
@@ -42,9 +42,9 @@ func main() {
 			"Engenheiro de Computação",
 		},
 		Pesquisa: []string{
-			"RT-PPP/INS tightly coupled",
-			"EKF 17 estados", "Fixed-lag Factor Graphs",
-			"RTK centimétrico em embarcados low-cost",
+			"Navegação INS/GNSS",
+			"Fusão de sensores",
+			"Sistemas embarcados",
 		},
 		Linguagens: []string{"C++", "Python", "Go", "TypeScript", "MATLAB"},
 		Hobbies:    []string{"Retro games", "Gamedev", "Lives de GTA VI"},
@@ -57,14 +57,14 @@ func main() {
 <td width="42%" valign="top">
 
 ### 🛰️ Agora
-- 📡 Fusão **INS + GNSS** com EKF e **Factor Graphs** rodando em **Raspberry Pi 4**
-- 🗺️ **Monitor GNSS** (Go/Gin + Angular 17 + MongoDB + MQTT)
+- 📡 Pesquisa em navegação **INS + GNSS** no doutorado
+- 🗺️ Sistemas de monitoramento **GNSS**
 - 🐧 **Sombra OS**, minha distro Linux baseada em Debian
 - 🦇 **Réquiem Carmesim**, um survivors gótico para a Steam
 
 ### 🏆 Destaques
 - 📄 2 publicações **IEEE** (uma no **ITSC 2024**)
-- 💾 Software de navegação RT-PPP/INS com **registro no INPI**
+- 💾 Software de navegação com **registro no INPI**
 - 🎙️ Lives e retro games no YouTube
 
 </td>
@@ -89,36 +89,28 @@ func main() {
 <tr>
 <td width="50%" valign="top">
 
-#### 🛰️ INS-RT-PPP-GNSS
-Navegação RT-PPP/INS fortemente acoplada em C++ no Raspberry Pi 4. Quatro estimadores em paralelo (WLS, EKF, LC, TC), dashboard Flask com mapa Leaflet e streaming SSE, API REST com Swagger.
-
-<sub>`C++` `Eigen` `Python` `Flask` `ARM64`</sub>
+#### 🛰️ Navegação INS/GNSS
+Navegação de alta precisão em sistemas embarcados de baixo custo.
 
 </td>
 <td width="50%" valign="top">
 
 #### 📡 Monitor GNSS
-Monitoramento de receptores e bases GNSS low-cost em parceria VALE/UFLA. Coletores Python via MQTT, backend Go/Gin, frontend Angular 17 e coleta por celulares Android.
-
-<sub>`Go` `Gin` `Angular` `MongoDB` `MQTT`</sub>
+Plataforma de monitoramento de dados de posicionamento GNSS.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🌐 Cliente NTRIP RBMC
-Cliente NTRIP em Python com interface web, inspirado no BNC, para receber e gravar correções da RBMC-IP do IBGE.
-
-<sub>`Python` `NTRIP` `RTCM` `GNSS`</sub>
+#### 🌐 Cliente NTRIP
+Recepção e gravação de correções GNSS em tempo real.
 
 </td>
 <td width="50%" valign="top">
 
 #### 🐧 Sombra OS
-Distro Linux leve baseada em Debian, com GNOME personalizado, tema dark sci-fi e ambiente de desenvolvimento pronto para C, C++, Go, Java, Node e Angular.
-
-<sub>`Debian` `live-build` `GNOME` `Docker`</sub>
+Minha própria distro Linux, leve e com visual dark.
 
 </td>
 </tr>
@@ -126,17 +118,13 @@ Distro Linux leve baseada em Debian, com GNOME personalizado, tema dark sci-fi e
 <td width="50%" valign="top">
 
 #### 💳 Totem de Pagamentos
-Totem de autoatendimento com PIX e cartões, frontend Angular e backend Go.
-
-<sub>`Angular` `Go` `MongoDB` `CI/CD`</sub>
+Solução de autoatendimento com pagamentos.
 
 </td>
 <td width="50%" valign="top">
 
 #### 🦇 Réquiem Carmesim
-Roguelite survivors gótico com sprites renderizados no Blender, visão isométrica e três heróis jogáveis.
-
-<sub>`Unity` `C#` `Blender`</sub>
+Jogo gótico de sobrevivência em desenvolvimento para a Steam.
 
 </td>
 </tr>
@@ -172,7 +160,8 @@ Roguelite survivors gótico com sprites renderizados no Blender, visão isométr
 <h2 align="center">🔴 Últimos vídeos no YouTube</h2>
 
 <p align="center">
-<!-- YOUTUBE:START --><a href="https://www.youtube.com/shorts/9zM-UABwxlI"><img width="24%" src="https://i.ytimg.com/vi/9zM-UABwxlI/mqdefault.jpg" alt="GTA 6 VIROU THE SIMS?! 🏠 #shorts" title="GTA 6 VIROU THE SIMS?! 🏠 #shorts" /></a><a href="https://www.youtube.com/watch?v=DI-e5yK8-tE"><img width="24%" src="https://i.ytimg.com/vi/DI-e5yK8-tE/mqdefault.jpg" alt="GTA 6 AO VIVO - UM NOVO RECOMEÇO - PARTE 4" title="GTA 6 AO VIVO - UM NOVO RECOMEÇO - PARTE 4" /></a><a href="https://www.youtube.com/shorts/6ke-vjymUFc"><img width="24%" src="https://i.ytimg.com/vi/6ke-vjymUFc/mqdefault.jpg" alt="O MAPA DO GTA 6 É GIGANTE! 🗺️ #shorts" title="O MAPA DO GTA 6 É GIGANTE! 🗺️ #shorts" /></a><a href="https://www.youtube.com/shorts/OMNGYFIRElo"><img width="24%" src="https://i.ytimg.com/vi/OMNGYFIRElo/mqdefault.jpg" alt="MORRI NO TUTORIAL DO GTA 6 💀 #shorts" title="MORRI NO TUTORIAL DO GTA 6 💀 #shorts" /></a><!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 </p>
 
 <p align="center">
@@ -196,7 +185,7 @@ Roguelite survivors gótico com sprites renderizados no Blender, visão isométr
 <p align="center">
   <img src="https://img.shields.io/badge/INS%2FGNSS-0D1117?style=flat-square&logo=satellite&logoColor=E11D48" />
   <img src="https://img.shields.io/badge/RTK%20%7C%20PPP--RT-0D1117?style=flat-square&logo=googlemaps&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/EKF%20%7C%20Factor%20Graphs-0D1117?style=flat-square&logo=wolframmathematica&logoColor=E11D48" />
+  <img src="https://img.shields.io/badge/Fus%C3%A3o%20de%20sensores-0D1117?style=flat-square&logo=wolframmathematica&logoColor=E11D48" />
   <img src="https://img.shields.io/badge/Go%20%2B%20Angular-0D1117?style=flat-square&logo=go&logoColor=A855F7" />
   <img src="https://img.shields.io/badge/Embarcados-0D1117?style=flat-square&logo=raspberrypi&logoColor=E11D48" />
   <img src="https://img.shields.io/badge/Gamedev-0D1117?style=flat-square&logo=unity&logoColor=A855F7" />
